@@ -1,5 +1,6 @@
 {
-    "name": "default-dev-container",
+    "name": "django-guide-dc",
+    "dockerFile": "Dockerfile",
     "features": {
       "ghcr.io/devcontainers/features/docker-in-docker": {
         "moby": false
